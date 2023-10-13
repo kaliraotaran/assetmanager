@@ -1,16 +1,6 @@
-# assetmanager
 
-A new Flutter project.
+![image](https://github.com/kaliraotaran/assetmanager/assets/81376236/92a2388c-fbc7-4a66-852e-39d2d5c9bd4a)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/kaliraotaran/assetmanager/assets/81376236/5fa8e7a3-13a9-4a7e-bae8-31d5143e4aed)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
